@@ -6,4 +6,4 @@
 
 ### Website
 
-https://jaenfigueroa.github.io/juego-damas-online-1vs1
+<!-- https://jaenfigueroa.github.io/juego-damas-online-1vs1 -->
