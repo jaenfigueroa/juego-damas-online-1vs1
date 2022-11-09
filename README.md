@@ -4,6 +4,6 @@
   <img src="./assets/preview.gif" align="center" style="width: 100%" />
 </div>
 
-<!-- ### Website -->
+ ### Website 
 
-<!-- https://jaenfigueroa.github.io/juego-damas-online-1vs1 -->
+ https://jaenfigueroa.github.io/juego-damas-online-1vs1 
